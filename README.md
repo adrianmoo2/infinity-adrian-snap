@@ -1,6 +1,6 @@
 # infinity-adrian-snap
 
-*Short description of your project, in one or two sentences.* 
+Before we start thinking about half the universe, we need to disintegrate the strongest human.
 
 ## Languages / Frameworks used
 
