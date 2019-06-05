@@ -40,7 +40,7 @@ browser-sync start --server --files "**/**"
 ## Demo
 
 [![Watch the video](![github-photo](https://user-images.githubusercontent.com/14877762/58935033-0c354900-8721-11e9-9b99-dcc47d200db3.png)
-)](https://youtu.be/YtmkLQc4kIE)
+)](https://youtu.be/YtmkLQc4kIE)  
 [Check out the Pen](https://codepen.io/adrianmoo/pen/arQpqb)
 
 ## Team
